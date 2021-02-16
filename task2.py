@@ -28,3 +28,13 @@ Example:
 Enter a number: 8
 8 is only a perfect cube.
 """
+import math
+
+xx=input("Enter a Number: ")
+if xx**(1/3):
+    print("xx is only a perfect cube.")
+if xx**(1/2):
+    print("xx is only a perfect square.")
+if xx**(1/3)
+    if xx**(1/2)
+        print("xx is both a perfect square and a perfect cube.")

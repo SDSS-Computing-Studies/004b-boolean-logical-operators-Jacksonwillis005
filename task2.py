@@ -33,7 +33,10 @@ import math
 
 xx=input("Enter a Number: ")
 xx=float(xx)
-if xx**(1/3):
+
+cbrtdecimal 
+sqrtdecimal 
+if cbrtdecimal ==0 and sqrtdecimal != 0:
     print("xx is only a perfect cube.")
 if xx**(1/2):
     print("xx is only a perfect square.")
